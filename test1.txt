@@ -1,3 +1,8 @@
 hi pal 
-from git to git to git to github
+
+from git to github
+
 push test from master branch
+
+push test from git main to github main, to check if the chaanges appeare in master branch
+
